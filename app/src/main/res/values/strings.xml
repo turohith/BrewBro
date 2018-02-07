@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BrewBro</string>
+    <string name="title_activity_recipe_list">RecipeListActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!--  Recipe and Recipe List Strings  -->\
+    <string name="recipe_text">Recipe</string>
+    <string name="recipe_add_text">Add Recipe</string>
+    <string name="recipe_delete_text">Delete Recipe</string>
+    <string name="recipe_edit_text">Edit Recipe</string>
+    <string name="recipe_sort_text">Sort...</string>
+    <string name="recipe_added_text">Recipe Added.</string>
+    <string name="recipe_saved_text">Recipe Saved.</string>
+    <string name="recipe_deleted_text">Recipe Deleted.</string>
+    <string name="label_all">All Recipes</string>
+    <string name="no_recipes_all">You have no Recipes!</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
